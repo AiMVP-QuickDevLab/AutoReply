@@ -17,3 +17,5 @@
 -          <span className="text-white font-medium text-lg geist-font">Aurora</span>
 +          <span className="text-white font-medium text-lg geist-font">AutoReply</span>
          </Link>
+   )
+ }

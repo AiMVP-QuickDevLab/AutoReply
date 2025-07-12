@@ -4,6 +4,8 @@
 
  export const CallToAction = () => {
    return (
+   )
+ }
 @@ .. @@
            <h2 className="text-4xl md:text-5xl font-bold mb-6 bg-gradient-to-r from-cyan-400 to-purple-400 bg-clip-text text-transparent geist-font">
              Ready to put your inbox on autopilot?
