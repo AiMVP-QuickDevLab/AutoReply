@@ -19,6 +19,7 @@
        
 +      {/* Back to Home Button */}
 +      <Link 
+   )
 +        to="/" 
 +        className="fixed top-6 left-6 z-20 glass-button px-4 py-2 rounded-lg text-white hover:bg-white/20 transition-all duration-300 flex items-center gap-2"
 +      >
