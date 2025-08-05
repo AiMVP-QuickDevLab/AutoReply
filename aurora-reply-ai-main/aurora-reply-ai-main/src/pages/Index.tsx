@@ -26,7 +26,7 @@ const Index = () => {
         <SocialProof />
         <HowItWorks />
         <Features />
-        <Demo />
+        
         <Testimonials />
         <Stats />
         <Pricing />
